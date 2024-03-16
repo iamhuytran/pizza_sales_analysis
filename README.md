@@ -15,13 +15,14 @@ Welcome to our Pizza Sales and Customer Purchase Patterns Analysis project! This
 ## Introduction
 In the fiercely competitive pizza industry, understanding sales trends and customer behavior is crucial for sustaining and growing profitability. Our project focuses on analyzing historical sales data and customer purchase patterns to inform the development of a promotional combo deal that not only attracts customers but also maximizes revenue.
 
+![image](https://github.com/iamhuytran/pizza_sales_analysis/assets/102829980/243589ae-24f3-496a-a8f7-89c1876a930b)
+
 ## Data Analysis
 We utilized SQL for data analysis, querying and processing large datasets to uncover valuable insights. Key aspects of our analysis include:
 - Identifying top-selling pizza varieties.
 - Analyzing sales trends over time.
 - Investigating customer demographics and preferences.
 
-![image](https://github.com/iamhuytran/pizza_sales_analysis/assets/102829980/243589ae-24f3-496a-a8f7-89c1876a930b)
 
 ## Dashboard Visualization
 Power BI was employed to create interactive dashboards that visualize the insights derived from our data analysis. These dashboards provide a comprehensive view of:
