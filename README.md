@@ -3,7 +3,7 @@
 
 # Pizza Sales and Customer Purchase Patterns Analysis
 
-Welcome to our Pizza Sales and Customer Purchase Patterns Analysis project! This repository contains the code and resources used to analyze pizza sales data and customer purchase patterns, with the goal of devising a promotional combo deal to increase profit for the upcoming year. By leveraging SQL for data analysis and Power BI for dashboard visualization, we aim to identify key performance indicators (KPIs) and optimize revenue generation strategies.
+Welcome to our Pizza Sales and Customer Purchase Patterns Analysis project! This repository contains the code and resources used to analyze pizza sales data, product performance, and customer purchase patterns, with the goal of devising a promotional combo deal to increase profit for the upcoming year. By leveraging SQL for data analysis and Power BI for dashboard visualization, we aim to identify key performance indicators (KPIs) and optimize revenue generation strategies.
 
 ## Table of Contents
 1. [Introduction](#introduction)
