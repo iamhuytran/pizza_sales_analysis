@@ -21,6 +21,8 @@ We utilized SQL for data analysis, querying and processing large datasets to unc
 - Analyzing sales trends over time.
 - Investigating customer demographics and preferences.
 
+![image](https://github.com/iamhuytran/pizza_sales_analysis/assets/102829980/243589ae-24f3-496a-a8f7-89c1876a930b)
+
 ## Dashboard Visualization
 Power BI was employed to create interactive dashboards that visualize the insights derived from our data analysis. These dashboards provide a comprehensive view of:
 - Revenue trends.
