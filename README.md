@@ -25,7 +25,7 @@ We utilized SQL for data analysis, querying and processing large datasets to unc
 Power BI was employed to create interactive dashboards that visualize the insights derived from our data analysis. These dashboards provide a comprehensive view of:
 - Revenue trends.
 - Customer segmentation.
-- Profit margins.
+- Items' performances.
 
 ## Promotional Combo Deal Strategy
 Based on the findings from our analysis and visualization, we propose a strategic promotional combo deal aimed at increasing profit for the next year. This combo deal is designed to:
