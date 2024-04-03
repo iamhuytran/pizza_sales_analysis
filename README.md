@@ -30,6 +30,8 @@ Power BI was employed to create interactive dashboards that visualize the insigh
 - Customer segmentation.
 - Items' performances.
 - Dynamic filter for product categories and timeframe.
+
+  
 ![image](https://github.com/iamhuytran/pizza_sales_analysis/assets/102829980/12eb5dcd-2277-4b6c-911d-af6b73b6d8e4)
 ![image](https://github.com/iamhuytran/pizza_sales_analysis/assets/102829980/e06f67ee-48e2-4b34-bbec-dbedd4c7ba3e)
 
